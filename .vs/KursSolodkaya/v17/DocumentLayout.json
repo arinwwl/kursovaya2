@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\kurssolodkaya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|solutionrelative:kurssolodkaya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|c:\\users\\user\\desktop\\kurssolodkaya\\kurssolodkaya\\kurssolodkaya\\model\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|solutionrelative:kurssolodkaya\\model\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\kurssolodkaya\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A96C05-8A0B-49D5-A4D2-06775994EDD9}|KursSolodkaya\\KursSolodkaya.csproj|solutionrelative:kurssolodkaya\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BazaContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\Model\\BazaContext.cs",
+              "RelativeDocumentMoniker": "KursSolodkaya\\Model\\BazaContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\Model\\BazaContext.cs",
+              "RelativeToolTip": "KursSolodkaya\\Model\\BazaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KursSolodkaya\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\MainWindow.xaml",
+              "RelativeToolTip": "KursSolodkaya\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T10:45:25.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KursSolodkaya\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\kursSolodkaya\\KursSolodkaya\\KursSolodkaya\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KursSolodkaya\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:45:23.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
